@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins";
+    background-color: #eee;
+}
+.container{
+    margin-top: 6rem;
+    text-align: center;
+
+}
+
+.contact-form{
+    display: block;
+    max-width: 400px;
+    max-height: 500px;
+    margin: 40 px auto;
+    background-color: #fff;
+    box-shadow: 1px 1px 3px 2px #ddd;
+    
+}
+
+.contact-inputs{
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+
+}
+
+
+
+
