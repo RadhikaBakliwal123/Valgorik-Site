@@ -30,7 +30,7 @@ const MenuBar = () => {
                                 <Link className="dropdown-item" to={SALES_CLOUD_PAGE}>Sales Cloud</Link>
                                 <Link className="dropdown-item" to={SERVICE_CLOUD_PAGE}>Service Cloud</Link>
                                 <Link className="dropdown-item" to={HEROKU_PAGE}>Heroku</Link>
-                                <Link className="dropdown-item" to={CPQ_PAGE}>Cpq</Link>
+                                <Link className="dropdown-item" to={CPQ_PAGE}>CPQ</Link>
                             </div>
                         </li>
                     </ul>

@@ -1,6 +1,7 @@
 import React from "react";
 import salesCloud from '../sales_cloud.jpg';
 import salesBanner from "../salesCloudMainUp.png";
+import './Sales.css';
 
 const SalesCloud = () => {
 
@@ -30,7 +31,7 @@ const SalesCloud = () => {
                   </p>
               </div>
               <div className="col-lg-6">
-                  <img src={salesCloud} alt="Sales_Cloud" className="img-fluid"/>
+                  <img src={salesCloud} alt="Sales_Cloud" className="leftToRight"/>
               </div>
           </div>
       </div>

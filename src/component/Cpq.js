@@ -26,7 +26,7 @@ const Cpq = () => {
                             </p>
                         </div>
                         <div className="col-lg-6">
-                            <img src={cpq_Image2} alt="Service_Cloud" className="img-fluid"/>
+                            <img src={cpq_Image2} alt="Service_Cloud" className="leftToRight"/>
                         </div>
                     </div>
                 </div>

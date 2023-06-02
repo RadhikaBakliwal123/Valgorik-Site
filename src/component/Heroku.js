@@ -26,7 +26,7 @@ const Heroku = () => {
                             </p>
                         </div>
                         <div className="col-lg-6">
-                            <img src={herokuImage2} alt="Heroku_Cloud" className="img-fluid"/>
+                            <img src={herokuImage2} alt="Heroku_Cloud" className="leftToRight"/>
                         </div>
                     </div>
                 </div>

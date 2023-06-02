@@ -1,6 +1,7 @@
 import React from "react";
 import serviceBanner from "../service-cloud.jpg";
 import serviceMain from "../serviceCloudMailUpdated.png";
+import './Servicecloud.css';
 
 const ServiceCloud = () => {
   let imageStyle = {
@@ -26,7 +27,7 @@ const ServiceCloud = () => {
                             </p>
                         </div>
                         <div className="col-lg-6">
-                            <img src={serviceBanner} alt="Service_Cloud" className="img-fluid"/>
+                            <img src={serviceBanner} alt="Service_Cloud" className="leftToRight"/>
                         </div>
                     </div>
                 </div>

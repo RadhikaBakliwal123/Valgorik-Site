@@ -1,8 +1,11 @@
 import React from "react";
 import pic2 from "../setAbout.jpg";
 import pic3 from "../banner2.jpg";
+//import AboutUs from '../component/About';
+
 const Home = () => {
   return (
+    <>
     <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
       <div className="carousel-inner">
         <div className="carousel-item active">
@@ -24,7 +27,12 @@ const Home = () => {
         <span className="sr-only">Next</span>
       </a>
     </div>
+    
+    
+    </>
+    
   );
+  
 
 }
 export default Home;
